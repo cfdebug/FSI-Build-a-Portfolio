@@ -3,3 +3,12 @@ body {background-color: crimson;}
     text-align: center;
     color: darkred;
 }
+.Title{
+    text-align: center;
+    text-decoration: underline;
+}
+.initialstatement{
+    text-align:center;
+    font-family:fantasy;
+    font-size: larger;
+}
