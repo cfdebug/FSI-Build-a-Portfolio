@@ -12,3 +12,13 @@ body {background-color: crimson;}
     font-family:fantasy;
     font-size: larger;
 }
+.personalimage{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:10%;
+    border-style: solid;
+    border-radius: 45em;
+    border-width: 5px;
+    border-color: black;
+}
