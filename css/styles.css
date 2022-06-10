@@ -22,3 +22,26 @@ body {background-color: crimson;}
     border-width: 5px;
     border-color: black;
 }
+.AboutMe{text-align: center;
+}
+.AboutMeText{text-align: left;
+}
+.MyProjects{
+    text-align: center;
+    font-style: italic;
+}
+.List1{
+    text-align: center;
+    list-style: inside;
+}
+.ContactMe{
+    text-align: center;
+}
+.UWLogo{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:auto;
+    border-style: hidden;
+    border-radius: 45em;
+}
