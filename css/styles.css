@@ -1,21 +1,21 @@
-<!--Body CSS-->
+/*Body CSS*/
 body {background-color: crimson;}
 .Name{
     text-align: center;
     color: darkred;
 }
-<!--Title Class CSS-->
+/*Title Class CSS*/
 .Title{
     text-align: center;
     text-decoration: underline;
 }
-<!--Initial Statement Class CSS-->
+/*Initial Statement Class CSS*/
 .initialstatement{
     text-align:center;
     font-family:fantasy;
     font-size: larger;
 }
-<!--Personal Image Class CSS-->
+/*Personal Image Class CSS*/
 .personalimage{
     display:block;
     margin-left:auto;
@@ -26,26 +26,26 @@ body {background-color: crimson;}
     border-width: 5px;
     border-color: black;
 }
-<!--About Me Classes CSS-->
+/*About Me Classes CSS*/
 .AboutMe{text-align: center;
 }
 .AboutMeText{text-align: left;
 }
-<!--My Projects Class CSS-->
+/*My Projects Class CSS*/
 .MyProjects{
     text-align: center;
     font-style: italic;
 }
-<!--Title Class CSS-->
+/*Title Class CSS*/
 .List1{
     text-align: center;
     list-style: inside;
 }
-<!--Contact Me Class CSS-->
+/*Contact Me Class CSS*/
 .ContactMe{
     text-align: center;
 }
-<!--UW Logo Class CSS-->
+/*UW Logo Class CSS*/
 .UWLogo{
     display:block;
     margin-left:auto;
